@@ -1,0 +1,20 @@
+{
+    "Author": "Mai Ali",
+    "ContentSize": 726,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/upload-vhd-on-azure/master/Upload-VHD.ps1",
+    "DownloadCount": 611,
+    "Id": "Upload-VHD-on-Azure-69e898e0",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 215,
+    "RaterCount": 2,
+    "Rating": 4.5,
+    "ReleaseDate": "2018-5-9T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Script was created to upload VHD on Azure using Powershell. Simply edit the  PS1 file based on the comments in the file to match your environment and  you will have a simple way of uploading VHD on Azure.",
+    "Title": "Upload VHD on Azure",
+    "UpdatedDate": "2018-5-9T00:00:00",
+    "Url": "https://github.com/azureautomation/upload-vhd-on-azure",
+    "UserTags": "Microsoft Azure, Powershell, Powershell Script"
+}
